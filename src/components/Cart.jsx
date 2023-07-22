@@ -10,10 +10,9 @@ function Cart() {
   const dispatch = useDispatch();
   
   useEffect(() => {
-    console.log(JSON.parse(localStorage.getItem('items')));
     dispatch(setState({
-      items: JSON.parse(localStorage.getItem('items')),
-      total: localStorage.getItem('total')
+      items: JSON.parse(localStorage.getItem('items')) ?? [],
+      total: localStorage.getItem('total') ?? 0
     }))
   }, [])
 
@@ -32,7 +31,6 @@ function Cart() {
   
   
 
-  console.log(items);
   return (
     <div className="cart">
       <button

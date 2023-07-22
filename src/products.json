@@ -1,91 +1,91 @@
 {
   "products": [
     {
-      "img": "./src/images/laptop1.png",
+      "img": "/images/laptop1.png",
       "name": "Lenovo 78",
       "price": 33000,
       "id": 1
     },
     {
-      "img": "./src/images/laptop2.png",
+      "img": "/images/laptop2.png",
       "name": "Lenovo 3310",
       "price": 33000,
       "id": 2
     },
     {
-      "img": "./src/images/laptop3.png",
+      "img": "/images/laptop3.png",
       "name": "Lenovo 56",
       "price": 33000,
       "id": 3
     },
     {
-      "img": "./src/images/laptop3.png",
+      "img": "/images/laptop3.png",
       "name": "Lenovo 35",
       "price": 33000,
       "id": 4
     },
     {
-      "img": "./src/images/laptop1.png",
+      "img": "/images/laptop1.png",
       "name": "Lenovo 11",
       "price": 33000,
       "id": 5
     },
     {
-      "img": "./src/images/laptop2.png",
+      "img": "/images/laptop2.png",
       "name": "Lenovo 12",
       "price": 33000,
       "id": 6
     },
     {
-      "img": "./src/images/laptop3.png",
+      "img": "/images/laptop3.png",
       "name": "Lenovo 313210",
       "price": 33000,
       "id": 7
     },
     {
-      "img": "./src/images/laptop2.png",
+      "img": "/images/laptop2.png",
       "name": "Lenovo 3333",
       "price": 33000,
       "id": 8
     },
     {
-      "img": "./src/images/laptop1.png",
+      "img": "/images/laptop1.png",
       "name": "Lenovo 222",
       "price": 33000,
       "id": 9
     },
     {
-      "img": "./src/images/laptop1.png",
+      "img": "/images/laptop1.png",
       "name": "Lenovo 111",
       "price": 33000,
       "id": 10
     },
     {
-      "img": "./src/images/laptop3.png",
+      "img": "/images/laptop3.png",
       "name": "Lenovo 113344",
       "price": 33000,
       "id": 11
     },
     {
-      "img": "./src/images/laptop3.png",
+      "img": "/images/laptop3.png",
       "name": "Lenovo 123454",
       "price": 33000,
       "id": 12
     },
     {
-      "img": "./src/images/laptop2.png",
+      "img": "/images/laptop2.png",
       "name": "Lenovo 112",
       "price": 33000,
       "id": 13
     },
     {
-      "img": "./src/images/laptop3.png",
+      "img": "/images/laptop3.png",
       "name": "Lenovo 1232",
       "price": 33000,
       "id": 14
     },
     {
-      "img": "./src/images/laptop2.png",
+      "img": "/images/laptop2.png",
       "name": "Lenovo 321",
       "price": 33000,
       "id": 15

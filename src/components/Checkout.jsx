@@ -11,7 +11,6 @@ function Checkout() {
 
 
   useEffect(() => {
-    console.log(JSON.parse(localStorage.getItem('items')));
     dispatch(setState({
       items: JSON.parse(localStorage.getItem('items')),
       total: localStorage.getItem('total')
@@ -19,7 +18,6 @@ function Checkout() {
   }, [])
 
   const total = useSelector((store) => store.cart.total);
-  console.log(useSelector((store) => store.cart));
   return (
     <>
       <form method="post">
