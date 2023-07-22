@@ -43,7 +43,7 @@ function Cart() {
       </button>
 
       <ul>
-        {items.map((item) => (
+        {items?.map((item) => (
           <CartItem item={item} key={`cartItem__${item.id}`} />
         ))}
       </ul>
